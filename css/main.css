@@ -1,0 +1,103 @@
+html {
+  background-color: #686a6b;
+  font-family: arial, sans-serif;
+}
+
+h1 {
+
+  font-weight: normal;
+  font-size: 5rem;
+  font-style: normal;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+  color: darkred;
+}
+
+ol {
+  list-style-type: circle;
+  padding: 0;
+  line-height: 1.5;
+}
+
+li {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: normal;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+}
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color:darkred;
+}
+
+h2 {
+
+  font-weight: normal;
+  font-size: 2rem;
+  font-style: italic;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+  color: darkred;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  color: white;
+  font-weight: bold;
+}
+
+blockquote {
+  font-weight: bold;
+  font-size: 1.5rem;
+  font-style: italic;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+  color: black;
+}
+
+.dude {
+  font-weight: normal;
+  font-size: 0.9rem;
+  font-style: italic;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+  color: lightgrey;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  line-height: 1.5;
+  color: white;
+}
+
+li {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: normal;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.9rem;
+  font-style: italic;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+}
+
+dt {
+  font-weight: bold;
+}
